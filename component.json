@@ -1,0 +1,10 @@
+{
+    "name": "storejs",
+    "description": "Local storage localstorage package provides a simple API",
+    "repos": "https://github.com/jaywcjlove/store.js.git",
+    "main": "lib/store.js",
+    "tag": "master",
+    "reposType": "npm",
+    "dependencies": {},
+    "version": "1.0.6"
+}
